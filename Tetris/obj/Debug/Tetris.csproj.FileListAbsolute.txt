@@ -1,0 +1,9 @@
+D:\code\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\code\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\code\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.FormTetris.resources
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\code\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
